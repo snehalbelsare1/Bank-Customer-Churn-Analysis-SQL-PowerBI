@@ -21,9 +21,9 @@ Customer churn directly impacts revenue and long-term profitability.
 4. GitHub (Project Version Control)
 
 * Project Structure
-SQL/          → Data preparation & analytical queries
-PowerBI/      → Interactive dashboard (.pbix)
-Images/       → Dashboard screenshots
+1. SQL/          → Data preparation & analytical queries
+2. PowerBI/      → Interactive dashboard (.pbix)
+3. Images/       → Dashboard screenshots
 
 * Project Workflow
 I. Data Preparation (SQL Server)
