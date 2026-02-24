@@ -21,9 +21,27 @@ Customer churn directly impacts revenue and long-term profitability.
 4. GitHub (Project Version Control)
 
 * Project Structure
-1. SQL/          → Data preparation & analytical queries
-2. PowerBI/      → Interactive dashboard (.pbix)
-3. Images/       → Dashboard screenshots
+
+Bank-Customer-Churn-Analysis/
+│
+├── SQL/
+│ ├── 01_Staging_Table.sql
+│ ├── 01_Cleaning_Table.sql
+│ ├── 03_Derived_Columns.sql
+│ ├── 04_KPI_Analysis.sql
+│ ├── 05_Segmentation_Analysis.sql
+│ └── README.md
+│
+├── PowerBI/
+│ ├── Bank_customer_churn_analysis.pbix
+│ └── README.md
+│
+├── Images/
+│ ├── 01_Executive_Dashboard.png
+│ ├── 02_Customer_Profile_Analysis.png
+│ └── 03_Business_Insights.png
+│
+└── README.md
 
 * Project Workflow
 I. Data Preparation (SQL Server)
