@@ -20,7 +20,7 @@ Customer churn directly impacts revenue and long-term profitability.
 3. DAX (Business Metrics & Measures)
 4. GitHub (Project Version Control)
 
-</>markdown 
+```</>markdown 
 * Project Structure
 
 Bank-Customer-Churn-Analysis/
@@ -44,6 +44,7 @@ Bank-Customer-Churn-Analysis/
 │
 └── README.md
 </>
+```
 
 * Project Workflow
 I. Data Preparation (SQL Server)
